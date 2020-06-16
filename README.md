@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-
+theme-jelly-theme-cayman
+welcome to the octate's home page!
+Feel free to book mark this to keep an eye on my project update.
 You can use the [editor on GitHub](https://github.com/meseretbanti/meseret.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
